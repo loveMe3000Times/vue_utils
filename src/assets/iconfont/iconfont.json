@@ -1,0 +1,16 @@
+{
+  "id": "2965367",
+  "name": "vue_utils",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7333006",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    }
+  ]
+}
